@@ -1,9 +1,3 @@
-﻿<MimecastLFS>
-  <LargeFileAttachmentInfo>
-    <LargeFileName>I:\RC8012\2201-2094-01-063_FM 2220\Utility Coordination\03 - CADD\06 - Reference Files\FM 2220_All_HALN.dwg</LargeFileName>
-    <DisplayName>FM 2220_All_HALN.dwg</DisplayName>
-    <Hash />
-    <Size>415586</Size>
-    <DeleteAfterSend>false</DeleteAfterSend>
-  </LargeFileAttachmentInfo>
-</MimecastLFS>
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0e7664e1c6926353d2fa8e4d23c6bf39d6b67b938f62d772864420a67b4135
+size 373

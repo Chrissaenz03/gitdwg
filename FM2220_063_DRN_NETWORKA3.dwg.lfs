@@ -1,9 +1,3 @@
-﻿<MimecastLFS>
-  <LargeFileAttachmentInfo>
-    <LargeFileName>I:\RC8012\2201-2094-01-063_FM 2220\Utility Coordination\03 - CADD\06 - Reference Files\FM2220_063_DRN_NETWORKA3.dwg</LargeFileName>
-    <DisplayName>FM2220_063_DRN_NETWORKA3.dwg</DisplayName>
-    <Hash />
-    <Size>83289</Size>
-    <DeleteAfterSend>false</DeleteAfterSend>
-  </LargeFileAttachmentInfo>
-</MimecastLFS>
+version https://git-lfs.github.com/spec/v1
+oid sha256:77545f89c75d38ddf9cd82bb164a10d86ea4817162627575d412d0e3b8e9eb00
+size 388

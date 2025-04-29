@@ -1,9 +1,3 @@
-﻿<MimecastLFS>
-  <LargeFileAttachmentInfo>
-    <LargeFileName>I:\RC8012\2201-2094-01-063_FM 2220\Utility Coordination\03 - CADD\06 - Reference Files\FM 2220_063_Final-ROW.dwg</LargeFileName>
-    <DisplayName>FM 2220_063_Final-ROW.dwg</DisplayName>
-    <Hash />
-    <Size>210414</Size>
-    <DeleteAfterSend>false</DeleteAfterSend>
-  </LargeFileAttachmentInfo>
-</MimecastLFS>
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf21de0530642a0521307e4a37903f9c4a68d121ffc643d2da7920b5fc8d6478
+size 383
